@@ -9,6 +9,8 @@
 2. My tablemate is interested in building a 3D survival horror game. And it takes place at a lab or an office, and in that place, there will be experiments about making animals into monsters. And those monsters will chase you. I think we do not have much personal style and interests since she focuses more on game mechanics while I focus more on the story.
 
 
+3. I don¡¯t think his taste is similar to mine since I prefer games that tell stories more, while he prefers action games like FPS.
+
 ### Activity 2
 Put your activity 2 image here. REMOVE THIS INSTRUCTIONAL TEXT.
 
