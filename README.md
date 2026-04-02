@@ -12,6 +12,7 @@
 3. I do not think his taste is similar to mine since I prefer games that tell stories more, while he prefers action games like FPS.
 
 ### Activity 2
+![Breakdown](https://github.com/user-attachments/assets/bf77902e-85fd-40f2-81ed-d7f092f45a66)
 
 
 ## W2
