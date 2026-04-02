@@ -12,7 +12,6 @@
 3. I do not think his taste is similar to mine since I prefer games that tell stories more, while he prefers action games like FPS.
 
 ### Activity 2
-Put your activity 2 image here. REMOVE THIS INSTRUCTIONAL TEXT.
 
 
 ## W2
