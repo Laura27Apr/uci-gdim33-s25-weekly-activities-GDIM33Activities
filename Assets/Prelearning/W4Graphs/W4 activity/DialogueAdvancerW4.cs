@@ -20,6 +20,13 @@ namespace W4Activity
             _Instance = this;
         }
 
+        [SerializeField] private DialogueNodeW4 startLine;
+
+        public void Start()
+        {
+            EventBus.Trigger(EventNames.NewDialogueEvent, startLine);
+        }
+
         // Button hooks up to this method
         // do not edit this method
         public void ChooseDialogue (DialogueNodeW4 nextLine)
