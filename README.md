@@ -37,6 +37,7 @@
 
 ## W3
 ### Activity 1
+#### Playtesting Preparation
 Playable:
 	1. The player should be able to move with WASD and the cursor to look around;
 	2. The fox will change its state after the player reaches to it, from alert to the calm;
@@ -47,8 +48,20 @@ Goal:
 	2. Is the size of the dialogue box ok?
 	3. Is the camera position high?
 
-### Activity 2
+#### Playtest Team
 Bilal Payton, Kai Castilliano, Alejandra Perez
 
+#### Playtest Notes
+1. Make the Cursor have different states will be better;
+2. Of course lock the player movement when there is dialogue going on.
 
-### Activity 3
+
+### Activity 2
+1. A writer could add more dialogue to this setup without writing any code, since in this setup the dialogue is saved into the ScriptableObject instead of saving into the code. A writer just needs to add more DialogueNodes and put the lines and the replies to write the dialogues.
+
+
+2. I do not think there is a clear number of dialogue nodes that the writer could create without writing any code since different dialogue nodes exist individually, and we just need to make sure they are connected correctly to add as much dialogue nodes as the writer wants.
+
+
+3. I think ¡°Regenerate Nodes¡± acts like a refresh button. It allows the system to regenerate different events or other nodes based on the current data. This is because when I edit content in C#, it might not sync automatically. In such cases, ¡°Regenerate Nodes¡± ensures that the dialog structure I see and use matches the content I¡¯ve just written.
+
