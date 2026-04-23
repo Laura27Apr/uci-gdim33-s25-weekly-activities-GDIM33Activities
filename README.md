@@ -52,6 +52,9 @@ Goal:
 Bilal Payton, Kai Castilliano, Alejandra Perez
 
 #### Playtest Notes
+My game appears to be to big to run on the itch and I tried to change the asset max texture size to max 64 but it still shows:
+
+Therefore I tested in the Unity. TT
 1. Make the Cursor have different states will be better;
 2. Of course lock the player movement when there is dialogue going on.
 
