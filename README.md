@@ -66,5 +66,5 @@ Therefore I tested in the Unity. TT
 2. I do not think there is a clear number of dialogue nodes that the writer could create without writing any code since different dialogue nodes exist individually, and we just need to make sure they are connected correctly to add as much dialogue nodes as the writer wants.
 
 
-3. I think ¡°Regenerate Nodes¡± acts like a refresh button. It allows the system to regenerate different events or other nodes based on the current data. This is because when I edit content in C#, it might not sync automatically. In such cases, ¡°Regenerate Nodes¡± ensures that the dialog structure I see and use matches the content I¡¯ve just written.
+3. I think "Regenerate Nodes acts like a refresh button. It allows the system to regenerate different events or other nodes based on the current data. This is because when I edit content in C#, it might not sync automatically. In such cases, ¡°Regenerate Nodes¡± ensures that the dialog structure I see and use matches the content I have just written.
 
