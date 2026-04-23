@@ -33,3 +33,22 @@
 
 4. This is also relevant to my Vertical Slice since in my game there will be 3 different states for the player, which is Exploring, Talking and Reading. I will use it to control the cursor state and player's movement. The player will switch between these states based on input, such as pressing the F key or ESC. 
 
+
+
+## W3
+### Activity 1
+Playable:
+	1. The player should be able to move with WASD and the cursor to look around;
+	2. The fox will change its state after the player reaches to it, from alert to the calm;
+	3. The player can click to start the dialogue to the fox.
+
+Goal:
+	1. Is the movement of the player good?
+	2. Is the size of the dialogue box ok?
+	3. Is the camera position high?
+
+### Activity 2
+Bilal Payton, Kai Castilliano, Alejandra Perez
+
+
+### Activity 3
