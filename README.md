@@ -1,4 +1,4 @@
-# GDIM 33 In-Class Activities<img width="1920" height="741" alt="屏幕截图 2026-04-22 204851" src="https://github.com/user-attachments/assets/50019204-30e7-43aa-ae92-51ec690e4d37" />
+# GDIM 33 In-Class Activities
 
 ## W1
 ### Activity 1
@@ -54,7 +54,8 @@ Bilal Payton, Kai Castilliano, Alejandra Perez
 
 #### Playtest Notes
 My game appears to be to big to run on the itch and I tried to change the asset max texture size to max 64 but it still shows:
-<img width="1920" height="741" alt="屏幕截图 2026-04-22 204851" src="https://github.com/user-attachments/assets/03d55b5d-6b94-47d3-8394-01740e4f49cf" />
+<img width="1920" height="741" alt="屏幕截图 2026-04-22 204851" src="https://github.com/user-attachments/assets/33964157-4c36-44df-bc96-cf7db5c9ba18" />
+
 
 Therefore I tested in the Unity. TT
 1. Make the Cursor have different states will be better;
@@ -69,8 +70,8 @@ Therefore I tested in the Unity. TT
 
 
 <<<<<<< HEAD
-3. I think "Regenerate Nodes acts like a refresh button. It allows the system to regenerate different events or other nodes based on the current data. This is because when I edit content in C#, it might not sync automatically. In such cases, ��Regenerate Nodes�� ensures that the dialog structure I see and use matches the content I have just written.
+3. I think "Regenerate Nodes acts like a refresh button. It allows the system to regenerate different events or other nodes based on the current data. This is because when I edit content in C#, it might not sync automatically. In such cases, ¡°Regenerate Nodes¡± ensures that the dialog structure I see and use matches the content I have just written.
 =======
-3. I think ¡°Regenerate Nodes¡± acts like a refresh button. It allows the system to regenerate different events or other nodes based on the current data. This is because when I edit content in C#, it might not sync automatically. In such cases, ¡°Regenerate Nodes¡± ensures that the dialog structure I see and use matches the content I¡¯ve just written.
+3. I think Â¡Â°Regenerate NodesÂ¡Â± acts like a refresh button. It allows the system to regenerate different events or other nodes based on the current data. This is because when I edit content in C#, it might not sync automatically. In such cases, Â¡Â°Regenerate NodesÂ¡Â± ensures that the dialog structure I see and use matches the content IÂ¡Â¯ve just written.
 >>>>>>> 0962af91f77ac4f3f7c9cab89c6ad82c9e0c22e1
 
