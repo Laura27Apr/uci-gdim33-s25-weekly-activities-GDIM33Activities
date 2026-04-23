@@ -1,4 +1,5 @@
-# GDIM 33 In-Class Activities
+# GDIM 33 In-Class Activities<img width="1920" height="741" alt="å±å¹•æˆªå›¾ 2026-04-22 204851" src="https://github.com/user-attachments/assets/50019204-30e7-43aa-ae92-51ec690e4d37" />
+
 ## W1
 ### Activity 1
 [Inspiration Board](https://docs.google.com/drawings/d/1sfnbYr2Jj6Pp-3PbAsxMVjZrqqeDOqv-UXVW9WTSq20/edit?usp=sharing)
@@ -53,6 +54,7 @@ Bilal Payton, Kai Castilliano, Alejandra Perez
 
 #### Playtest Notes
 My game appears to be to big to run on the itch and I tried to change the asset max texture size to max 64 but it still shows:
+<img width="1920" height="741" alt="å±å¹•æˆªå›¾ 2026-04-22 204851" src="https://github.com/user-attachments/assets/03d55b5d-6b94-47d3-8394-01740e4f49cf" />
 
 Therefore I tested in the Unity. TT
 1. Make the Cursor have different states will be better;
@@ -66,5 +68,5 @@ Therefore I tested in the Unity. TT
 2. I do not think there is a clear number of dialogue nodes that the writer could create without writing any code since different dialogue nodes exist individually, and we just need to make sure they are connected correctly to add as much dialogue nodes as the writer wants.
 
 
-3. I think ¡°Regenerate Nodes¡± acts like a refresh button. It allows the system to regenerate different events or other nodes based on the current data. This is because when I edit content in C#, it might not sync automatically. In such cases, ¡°Regenerate Nodes¡± ensures that the dialog structure I see and use matches the content I¡¯ve just written.
+3. I think Â¡Â°Regenerate NodesÂ¡Â± acts like a refresh button. It allows the system to regenerate different events or other nodes based on the current data. This is because when I edit content in C#, it might not sync automatically. In such cases, Â¡Â°Regenerate NodesÂ¡Â± ensures that the dialog structure I see and use matches the content IÂ¡Â¯ve just written.
 
