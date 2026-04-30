@@ -70,3 +70,20 @@ Therefore I tested in the Unity. TT
 
 
 3. I think Regenerate Nodes acts like a refresh button. It allows the system to regenerate different events or other nodes based on the current data. This is because when I edit content in C#, it might not sync automatically. In such cases, Regenerate Nodes ensures that the dialog structure I see and use matches the content I have just written.
+
+
+## W4
+### Activity 1
+1. Make the NPC follow the player using the Navmesh.
+	1. Create and bake the NavMesh. Check whether the blue mesh covers the expected areas by eyeing it.
+	2. Create a target position with an empty GameObject in the scene. Code the NPC to move toward it in Start() using SetDestination(). This tests the NavMesh and the basic usage of NavMeshAgent on the NPC.
+	3. Replace the target position with the Player’s Transform. Move the NPC to continuously update its movement target to the player. Run the game to test.
+2. Make the NPC follow the player only after the dialogue ends and the Player is in the Explore state.
+	1. Connect the NPC movement to the player state machine. Only allow the NPC to move when the player is in the Explore state. Use Debug.Log to confirm when the player enters the Explore state, and the NPC is allowed to move.
+	2. Trigger the following behavior of the NPC after dialogue ends. When dialogue ends, the player returns to the Explore state, and only then does the NPC start following the Player. Run the game to test.
+	3. Pause the NPC’s movement when entering the Dialogue State of the NPC. Run the game to test.
+3. Trigger the NPC follow behavior when there is a certain distance between the NPC and the Player.
+	1. Add a distance check to control when the NPC should start to follow the player. Use Debug.Log to print the distance value and confirm that the NPC follow behavior only triggers when the distance condition is met.
+
+
+### Activity 2
