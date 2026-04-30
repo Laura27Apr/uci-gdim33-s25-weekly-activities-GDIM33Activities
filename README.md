@@ -87,3 +87,4 @@ Therefore I tested in the Unity. TT
 
 
 ### Activity 2
+First, I have created and baked my NavMesh. Then I coded a script which let the NPC came to the player once the game start. And once the player left the initial place and there is certain distance between the player and the NPC, the NPC will start follow the player.
