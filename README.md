@@ -108,3 +108,10 @@ First, I have created and baked my NavMesh. Then I coded a script which let the 
 4. Add a new scene before the real game begin to explain the background story.
 
 ### Activity 2
+1. I think this because when we are multiplying the numbers which are greater than 0 but less than one, usually the results we get will get smaller and smaller. And in the RGB channels, as the number of the RGB get less, the color gets darker and less saturated. This is the reason that Multiply setting of the Blend node makes the resulting color darker and less saturated than the input colors.
+
+2. The resulting value will be more translucent since the values in the Alpha are also from 0.0 to 1.0. And when we are multiplying, the values will get smaller. And in the Alpha, as the value grows from 0 to 1, the transparency also grows from more translucent to more translucent. Therefore, the resulting value will be more translucent.
+
+3. I think the UV values are from the assets (models) themselves. Each vertex of the assets has its UV coordinates, which could tell the shader.
+
+4.Kind of? Because through that I know how to control the color through numbers, which I may also use when I am coding. I can easily adjust the color detailedly through changing the numbers.
