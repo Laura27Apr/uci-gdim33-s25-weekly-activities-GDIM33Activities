@@ -104,6 +104,7 @@ First, I have created and baked my NavMesh. Then I coded a script which let the 
 - Notes:
 1. Absolutely lock the cursor when the player is not in the dialogue;
 2. Add collider to the big assets in the game to make sure that the player and the NPC does not go through it;
-3. Add the walking animation for the NPC.
+3. Add the walking animation for the NPC;
+4. Add a new scene before the real game begin to explain the background story.
 
 ### Activity 2
