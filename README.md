@@ -100,3 +100,10 @@ First, I have created and baked my NavMesh. Then I coded a script which let the 
 1. Test if the dialogue branches really affect player's exploration of the environment;
 2. Test if the reading UI works well, is it clear?
 3. Check if more guiding UI elements are needed.
+
+- Notes:
+1. Absolutely lock the cursor when the player is not in the dialogue;
+2. Add collider to the big assets in the game to make sure that the player and the NPC does not go through it;
+3. Add the walking animation for the NPC.
+
+### Activity 2
