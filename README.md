@@ -88,3 +88,15 @@ Therefore I tested in the Unity. TT
 
 ### Activity 2
 First, I have created and baked my NavMesh. Then I coded a script which let the NPC came to the player once the game start. And once the player left the initial place and there is certain distance between the player and the NPC, the NPC will start follow the player.
+
+
+## W5
+### Activity 1
+- I have added NPC follow behavior after the first round of dialogue which results in NPC following the player when the player is exploring the environment around; I have also added an interaction GameObject which the player can press F to read and press ESC to exit the read mode.
+
+- [Playtest 2](https://laura27apr.itch.io/playtest2-gdim33)
+
+- Goals:
+1. Test if the dialogue branches really affect player's exploration of the environment;
+2. Test if the reading UI works well, is it clear?
+3. Check if more guiding UI elements are needed.
