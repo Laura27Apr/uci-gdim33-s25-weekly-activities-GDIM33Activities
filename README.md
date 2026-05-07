@@ -114,4 +114,4 @@ First, I have created and baked my NavMesh. Then I coded a script which let the 
 
 3. I think the UV values are from the assets (models) themselves. Each vertex of the assets has its UV coordinates, which could tell the shader.
 
-4.Kind of? Because through that I know how to control the color through numbers, which I may also use when I am coding. I can easily adjust the color detailedly through changing the numbers.
+4. Kind of? Because through that I know how to control the color through numbers, which I may also use when I am coding. I can easily adjust the color detailedly through changing the numbers.
