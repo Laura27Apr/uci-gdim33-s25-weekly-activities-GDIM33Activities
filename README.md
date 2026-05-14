@@ -17,7 +17,7 @@
 
 
 
-## W2
+## W3
 ### Activity 1
 <img width="1719" height="718" alt="Vertical_Slice_Breakdown" src="https://github.com/user-attachments/assets/90b663c6-7b78-4031-a556-6146e0df2afa" />
 
@@ -36,7 +36,7 @@
 
 
 
-## W3
+## W4
 ### Activity 1
 #### Playtesting Preparation
 Playable:
@@ -72,7 +72,7 @@ Therefore I tested in the Unity. TT
 3. I think Regenerate Nodes acts like a refresh button. It allows the system to regenerate different events or other nodes based on the current data. This is because when I edit content in C#, it might not sync automatically. In such cases, Regenerate Nodes ensures that the dialog structure I see and use matches the content I have just written.
 
 
-## W4
+## W5
 ### Activity 1
 1. Make the NPC follow the player using the Navmesh.
 	1. Create and bake the NavMesh. Check whether the blue mesh covers the expected areas by eyeing it.
@@ -90,7 +90,7 @@ Therefore I tested in the Unity. TT
 First, I have created and baked my NavMesh. Then I coded a script which let the NPC came to the player once the game start. And once the player left the initial place and there is certain distance between the player and the NPC, the NPC will start follow the player.
 
 
-## W5
+## W6
 ### Activity 1
 - I have added NPC follow behavior after the first round of dialogue which results in NPC following the player when the player is exploring the environment around; I have also added an interaction GameObject which the player can press F to read and press ESC to exit the read mode.
 
@@ -115,3 +115,6 @@ First, I have created and baked my NavMesh. Then I coded a script which let the 
 3. I think the UV values are from the assets (models) themselves. Each vertex of the assets has its UV coordinates, which could tell the shader.
 
 4. Kind of? Because through that I know how to control the color through numbers, which I may also use when I am coding. I can easily adjust the color detailedly through changing the numbers.
+
+
+## W7
