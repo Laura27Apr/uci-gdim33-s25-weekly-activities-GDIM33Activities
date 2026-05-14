@@ -118,3 +118,10 @@ First, I have created and baked my NavMesh. Then I coded a script which let the 
 
 
 ## W7
+1. The data for the Vertex Color node comes from the Shiba model itself. Each vertex in the mesh assets in the Shiba model contains a Position, Normal, Tangent, Color, and UV.
+2. This is because the vertex data interpolated (blended) between the fragments in the fragment shader. The GPU will blend colors based on the distance between the distance of each fragment and different vertices.
+3. Vertex color is less detailed because the color data is only stored at the vertices. And if we do not have enough vertices, the color will seem rough. Vertex color can be useful for simple coloring and debug purposes.
+4. I think the colors near the shiba’s back thigh look wrong since it is different from the colors on that part.
+5. I think we can test UV data. Since UV is commonly hard to observe, and is we use debug shader makes it easier to observe the problem.
+6. At the beginning, the normal direction and the light direction are opposite. And if the two directions are opposite, we have a negative result value, which results in the reverse lighting.
+7. The additive mode can add the color of the object being drawn to the colors already on the screen, which makes the bright area look more obvious.
