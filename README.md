@@ -125,3 +125,20 @@ First, I have created and baked my NavMesh. Then I coded a script which let the 
 5. I think we can test UV data. Since UV is commonly hard to observe, and is we use debug shader makes it easier to observe the problem.
 6. At the beginning, the normal direction and the light direction are opposite. And if the two directions are opposite, we have a negative result value, which results in the reverse lighting.
 7. The additive mode can add the color of the object being drawn to the colors already on the screen, which makes the bright area look more obvious.
+
+
+## W8
+### Activity 1
+- I have added some readings for my interactable items and I have added a beginning scene for my game which illustrates my game's background story.
+
+- [Playtest 3](https://laura27apr.itch.io/playtest3-gdim33)
+
+- Goals:
+1. Test if there is enough content right now for the game;
+2. Test if the background story gives instruction for the player;
+3. Check if there is more dialogue content needed;
+
+- Notes:
+1. It may be better to add more clues here for the player to explore;
+2. Add background music and sound effects;
+3. Fix the default dialogue.
