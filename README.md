@@ -129,7 +129,7 @@ First, I have created and baked my NavMesh. Then I coded a script which let the 
 
 ## W8
 ### Activity 1
-- I have added some readings for my interactable items and I have added a beginning scene for my game which illustrates my game's background story.
+- I have added more interactable items and added readings for them. Also, I have added a beginning scene for my game which illustrates my game's background story.
 
 - [Playtest 3](https://laura27apr.itch.io/playtest3-gdim33)
 
