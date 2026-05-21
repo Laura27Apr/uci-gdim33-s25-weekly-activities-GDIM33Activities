@@ -142,3 +142,12 @@ First, I have created and baked my NavMesh. Then I coded a script which let the 
 1. It may be better to add more clues here for the player to explore;
 2. Add background music and sound effects;
 3. Fix the default dialogue.
+
+### Activity 2
+2C:
+
+
+1. FullScreenPassRendererFeature. I think other than the name being kinda obvious, I can tell because the events happens before this pass do not contain the red texture I added, it is just the normal scene.
+2. When the Lerp value is set to 0.5, we can see a little bit of the texture. When the Lerp value is set to 0, we cannot see the texture at all. When the Lerp value is set to 1, we can see that the texture is completely shown on the screen.
+3. Because Lerp will use the value to blend the texture and the original scene. The closer the value is to 0, the more it leans toward the original image. The closer the value is to 1, the more it leans toward the effect.
+4. From the graph, we can see that the sin(time) contains value from -1 to 1, while (sin(time)+1)/2 contains value from 0 to 1, which means (sin(time)+1)/2 does not contain negative values. And for the Lerp, it is only supposed to have input values from 0 -1. Therefore, the negative value will result in the bright stage.
