@@ -175,7 +175,6 @@ Minecraft
 	- An effect in an individual object's material
 	- Set a timer to control red effect using Time.deltaTime
 
-
-
-
 ### Activity 2
+
+I have made an improvement to my ShaderGraph and the thing I added which could makes my GameObject move with the wind. I used Vertex Position to adjust the model's vertices. I used "Time + Sine" to generate a value that oscillates back and forth. I then applied this offset to the vertex positions. This caused the flame's shape to tremble slightly. It simulated the effect of wind blowing through it.
