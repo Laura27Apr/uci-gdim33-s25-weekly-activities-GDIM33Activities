@@ -156,17 +156,41 @@ First, I have created and baked my NavMesh. Then I coded a script which let the 
 ## W9
 ### Activity 1
 Minecraft:
+
+
 	1. Cube Outline effect:
+
+
 		- When a player hovers cursor over a block there is an outline over it to indicate to the players what block they are going to either mine/place something on. 
+		
+		
 		- We think that this effect is a renderer feature that is applied to certain objects.
+		
+		
 		- This game effect is activated when the cursor is pointing to the specific game objects and it is deactivated when the cursor is not over the object. 
+
+
 	2. Teleportation effect (Nether):
+		
+		
 		- Full-screen post-processing effect 
+		
+		
 		- Maybe it has a timer to activate and deactivate while the other world(Nether) loads.
+	
+	
 	3. Effect of attacking something:
+		
+		
 		- When player hits something living (mob, another player) they turn red for a brief moment  
+		
+		
 		- Material change? 
+		
+		
 		- An effect in an individual object's material
+		
+		
 		- Set a timer to control red effect using Time.deltaTime
 
 
