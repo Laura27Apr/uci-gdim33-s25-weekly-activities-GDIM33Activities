@@ -195,3 +195,6 @@ There content seems to be enough and clear for the game and the story, the playe
 
 ### Activity 2
 It will be useful to breakdown your whole game ideas into small systems. First, start with a rough idea, such as your core mechanics. Break this idea down into smaller systems and consider how they relate to one another. Estimate the game's scope based on the time available to complete it. When estimating the amount of content you can create, don't overestimate your abilities. Instead, focus on creating the minimum amount needed to get the game up and running. Then, gradually build on that. Instead of coding every aspect of the game you’ve envisioned right from the start, focus on one small system at a time. Once you've finished that system, you can gradually add more. Because it takes longer to complete a small system than you might think.
+
+### Activity 3
+I have fixed the problem that the cursor will disappear after you have clicked "begin" button while you haven't been loaded into the game scene.
