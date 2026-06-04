@@ -178,3 +178,17 @@ Minecraft
 ### Activity 2
 
 I have made an improvement to my ShaderGraph and the thing I added which could makes my GameObject move with the wind. I used Vertex Position to adjust the model's vertices. I used "Time + Sine" to generate a value that oscillates back and forth. I then applied this offset to the vertex positions. This caused the flame's shape to tremble slightly. It simulated the effect of wind blowing through it.
+
+
+## W10
+### Activity 1
+- I have made the interactable items a short page and a detailed page, in ths short page there is the summary of the item and in the detailed page you can read whole story of that item. I have also added a background music.
+
+- [Playtest 4](https://laura27apr.itch.io/playtest4-gdim33)
+
+- Goals:
+1. Is there enough content for you to play?
+2. Does the storyline of the game clear or it is vague?
+
+- Notes:
+There content seems to be enough and clear for the game and the story, the player really likes the way you are exploring and interacting with the fox and the items. Maybe make the ending of the story more interactable will be better.
